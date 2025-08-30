@@ -1,0 +1,15 @@
+# Job Hunter Bot Dependencies
+PyQt6>=6.6.0
+selenium>=4.15.0
+beautifulsoup4>=4.12.2
+requests>=2.31.0
+openai>=1.3.0
+pandas>=2.1.0
+webdriver-manager>=4.0.1
+python-dateutil>=2.8.2
+pillow>=10.0.0
+colorlog>=6.7.0
+email-validator>=2.1.0
+cryptography>=41.0.0
+fake-useragent>=1.4.0
+plyer>=2.1.0

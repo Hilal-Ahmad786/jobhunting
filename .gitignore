@@ -1,0 +1,9 @@
+# Job Hunter Bot
+.env
+*.db
+*.log
+job_hunter_env/
+__pycache__/
+*.pyc
+data/logs/
+data/backups/
